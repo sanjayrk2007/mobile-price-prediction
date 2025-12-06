@@ -122,9 +122,12 @@ Given user inputs (brand, RAM, storage, battery, year, condition), the notebook 
 - Add Random Forest or Gradient Boosted Trees  
 - Include more features (camera quality, chipset family, depreciation score)  
 - Deploy as a web app (Streamlit or FastAPI)  
-- Train on larger, multi-platform datasets  
+- Train on larger, multi-platform datasets
+
 
 ---
+
+
 
 ## 🙌 Acknowledgements  
 Built as a foundational ML project to understand real-world datasets, linear regression mechanics, and practical ML workflows.
